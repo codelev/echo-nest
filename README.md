@@ -5,6 +5,9 @@ Requirements:
 - NodeJS 18+
 - Docker
 
+Endpoints:
+- HTTP GET `/rest/echo`
+
 ## Development
 
 ```shell
